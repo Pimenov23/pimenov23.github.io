@@ -1,0 +1,123 @@
+body{
+	background-image: url(image/fon2z.jpg);
+}
+
+
+.fur{
+font-size: 100px;
+color: #EB8900;
+border: 3px solid #30FF19;
+background-color: #3C7DFF;
+border-radius: 400px;
+margin-left: 600px;
+margin-right: 600px;
+}
+
+
+
+
+
+.dobro{
+	font-size: 50px;
+	color: red;
+
+}
+
+.test{
+    color: green;
+    border: 3px solid blue;
+    margin-right: 1711px;
+    font-size: 50px;
+}
+
+.test:hover{
+    background-color: blue;
+    border: 7px solid blue;
+    font-size: 70px;
+    margin-right: 1650px;
+}
+
+
+
+
+
+
+.tehpod{
+    color: red;
+    border: 3px solid green;
+    background-color: blue;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.tehpod2{
+    color: red;
+    border: 3px solid green;
+    background-color: blue;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+}
+
+.ost{
+    color: green;
+    border: 3px solid gray;
+    margin-left: 650px;
+    margin-right: 650px;
+    background-color: orange;
+}
+
+.ost2{
+    color: green;
+    border: 3px solid gray;
+    background-color: orange;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    #menu, #menu li {
+        margin: 0;
+       padding: 0;
+    }
+    #menu {
+        text-align: center;
+       background: #03658e;
+    }
+    #menu li{
+        display:inline-block;
+        text-align: center;
+    }
+    #menu a {
+        display: block;
+        padding: 5px 15px;
+        color: #fff;
+       font-size:150%;
+       text-decoration: none;
+    }
+    #menu a:hover {
+        background: #8AB8CC;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
