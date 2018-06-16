@@ -23,19 +23,7 @@ margin-right: 600px;
 
 }
 
-.test{
-    color: green;
-    border: 3px solid blue;
-    margin-right: 1711px;
-    font-size: 50px;
-}
 
-.test:hover{
-    background-color: blue;
-    border: 7px solid blue;
-    font-size: 70px;
-    margin-right: 1650px;
-}
 
 
 
